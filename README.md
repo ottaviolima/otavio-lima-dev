@@ -1,7 +1,7 @@
 ### Olá!
 
 - 🔭 Faço projetos Front-end 
-- 🌱 Atualmente estudando React.
+- 🌱 Atualmente estudando Desenvolvimento Web em geral.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavio-lima-dev&show_icons=true&theme=dark&include_all_commits"=true&count_private=true" >
