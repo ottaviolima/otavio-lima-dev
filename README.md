@@ -1,8 +1,8 @@
 ### Olá!
 
-- 私 Faço projetos Front-End.
-- 愛 Atualmente estudando Desenvolvimento Web em geral.
-- 神 Cursando Inglês na Influx.
+-  Faço projetos Web.
+-  Atualmente estudando Desenvolvimento Web em geral.
+-  Cursando Inglês.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavio-lima-dev&show_icons=true&theme=dark&include_all_commits"=true&count_private=true" >
