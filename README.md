@@ -1,12 +1,8 @@
-### Olá!
+### Hello!
 
--  Faço projetos Web.
--  Atualmente estudando Desenvolvimento Web em geral.
--  Cursando Inglês.
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavio-lima-dev&show_icons=true&theme=dark&include_all_commits"=true&count_private=true" >
-</div>
+-  I do web projects.
+-  Currently studying technology.
+-  Brazilian! 🇧🇷.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Otavio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
