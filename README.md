@@ -1,6 +1,5 @@
 ### Hello!
 
--  I do web projects.
 -  Currently studying technology.
 -  Brazilian! 🇧🇷.
 
